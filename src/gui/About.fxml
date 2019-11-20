@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox prefHeight="137.0" prefWidth="235.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
+   <children>
+      <Label alignment="TOP_LEFT" prefHeight="17.0" prefWidth="214.0" text="About">
+         <padding>
+            <Insets left="10.0" top="10.0" />
+         </padding>
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label text="xxvxvxvxvxxvxv">
+         <padding>
+            <Insets left="10.0" top="10.0" />
+         </padding>
+      </Label>
+   </children>
+</VBox>
